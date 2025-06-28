@@ -1,0 +1,183 @@
+2025-06-27 16:17:16,373 - INFO - Upload directory created/verified: data
+2025-06-27 16:17:16,377 - INFO - CALEX Flask Backend starting up
+2025-06-27 16:17:16,397 - WARNING -  * Debugger is active!
+2025-06-27 16:17:16,409 - INFO -  * Debugger PIN: 127-845-338
+2025-06-27 16:17:18,435 - INFO -  * Detected change in 'C:\\Users\\ezaza\\Desktop\\zo-house\\backend\\app.py', reloading
+2025-06-27 16:17:18,929 - INFO - Upload directory created/verified: data
+2025-06-27 16:17:18,934 - INFO - CALEX Flask Backend starting up
+2025-06-27 16:17:18,953 - WARNING -  * Debugger is active!
+2025-06-27 16:17:18,968 - INFO -  * Debugger PIN: 127-845-338
+2025-06-27 16:24:22,586 - INFO - Upload directory created/verified: data
+2025-06-27 16:24:22,589 - INFO - CALEX Flask Backend starting up
+2025-06-27 16:24:22,642 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.104.212.89:5000
+2025-06-27 16:24:22,643 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-27 16:24:22,649 - INFO -  * Restarting with stat
+2025-06-27 16:24:23,028 - INFO - Upload directory created/verified: data
+2025-06-27 16:24:23,032 - INFO - CALEX Flask Backend starting up
+2025-06-27 16:24:23,047 - WARNING -  * Debugger is active!
+2025-06-27 16:24:23,059 - INFO -  * Debugger PIN: 127-845-338
+2025-06-27 16:36:55,809 - INFO -  * Detected change in 'C:\\Users\\ezaza\\Desktop\\zo-house\\backend\\app.py', reloading
+2025-06-27 16:36:55,913 - INFO -  * Restarting with stat
+2025-06-27 16:36:56,300 - INFO - Upload directory created/verified: data
+2025-06-27 16:36:56,304 - INFO - CALEX Flask Backend starting up
+2025-06-27 16:36:56,325 - WARNING -  * Debugger is active!
+2025-06-27 16:36:56,336 - INFO -  * Debugger PIN: 127-845-338
+2025-06-27 16:37:58,913 - INFO -  * Detected change in 'C:\\Users\\ezaza\\Desktop\\zo-house\\backend\\app.py', reloading
+2025-06-27 16:37:58,968 - INFO -  * Restarting with stat
+2025-06-27 16:37:59,459 - INFO - Upload directory created/verified: data
+2025-06-27 16:37:59,468 - INFO - CALEX Flask Backend starting up
+2025-06-27 16:37:59,486 - WARNING -  * Debugger is active!
+2025-06-27 16:37:59,498 - INFO -  * Debugger PIN: 127-845-338
+2025-06-27 16:39:09,366 - INFO - Upload directory created/verified: data
+2025-06-27 16:39:09,373 - INFO - CALEX Flask Backend starting up
+2025-06-27 16:39:09,418 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.104.212.89:5000
+2025-06-27 16:39:09,418 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-27 16:39:09,423 - INFO -  * Restarting with stat
+2025-06-27 16:39:09,732 - INFO - Upload directory created/verified: data
+2025-06-27 16:39:09,739 - INFO - CALEX Flask Backend starting up
+2025-06-27 16:39:09,759 - WARNING -  * Debugger is active!
+2025-06-27 16:39:09,773 - INFO -  * Debugger PIN: 127-845-338
+2025-06-27 16:39:30,011 - INFO -  * Detected change in 'C:\\Users\\ezaza\\Desktop\\zo-house\\backend\\app.py', reloading
+2025-06-27 16:39:30,080 - INFO -  * Restarting with stat
+2025-06-27 16:39:30,742 - INFO - Upload directory created/verified: data
+2025-06-27 16:39:30,817 - INFO - CALEX Flask Backend starting up
+2025-06-27 16:39:30,858 - WARNING -  * Debugger is active!
+2025-06-27 16:39:30,868 - INFO -  * Debugger PIN: 127-845-338
+2025-06-27 16:43:12,610 - INFO -  * Detected change in 'C:\\Users\\ezaza\\Desktop\\zo-house\\backend\\app.py', reloading
+2025-06-27 16:43:12,793 - INFO -  * Restarting with stat
+2025-06-27 16:43:13,360 - INFO - Upload directory created/verified: data
+2025-06-27 16:43:13,370 - INFO - CALEX Flask Backend starting up
+2025-06-27 16:43:13,395 - WARNING -  * Debugger is active!
+2025-06-27 16:43:13,417 - INFO -  * Debugger PIN: 127-845-338
+2025-06-27 16:44:26,807 - INFO -  * Detected change in 'C:\\Users\\ezaza\\Desktop\\zo-house\\backend\\app.py', reloading
+2025-06-27 16:44:26,861 - INFO -  * Restarting with stat
+2025-06-27 16:44:27,233 - INFO - Upload directory created/verified: data
+2025-06-27 16:44:27,242 - INFO - CALEX Flask Backend starting up
+2025-06-27 16:44:27,257 - WARNING -  * Debugger is active!
+2025-06-27 16:44:27,267 - INFO -  * Debugger PIN: 127-845-338
+2025-06-27 16:44:40,541 - INFO - Returning 0 projects
+2025-06-27 16:44:40,543 - INFO - 127.0.0.1 - - [27/Jun/2025 16:44:40] "GET /api/projects HTTP/1.1" 200 -
+2025-06-27 16:44:40,567 - INFO - Returning 0 projects
+2025-06-27 16:44:40,570 - INFO - 127.0.0.1 - - [27/Jun/2025 16:44:40] "GET /api/projects HTTP/1.1" 200 -
+2025-06-27 16:45:06,133 - INFO - Creating project: test
+2025-06-27 16:45:06,136 - INFO - Created project: test (2da4b73e-c1cf-44d2-8ccc-e287ece4a633)
+2025-06-27 16:45:06,138 - INFO - 127.0.0.1 - - [27/Jun/2025 16:45:06] "[35m[1mPOST /api/projects HTTP/1.1[0m" 201 -
+2025-06-27 16:45:14,100 - INFO - 127.0.0.1 - - [27/Jun/2025 16:45:14] "GET /api/goals/project/2da4b73e-c1cf-44d2-8ccc-e287ece4a633 HTTP/1.1" 200 -
+2025-06-27 16:45:14,109 - INFO - 127.0.0.1 - - [27/Jun/2025 16:45:14] "GET /api/goals/project/2da4b73e-c1cf-44d2-8ccc-e287ece4a633 HTTP/1.1" 200 -
+2025-06-27 16:45:17,896 - INFO - 127.0.0.1 - - [27/Jun/2025 16:45:17] "GET /api/insights/project/2da4b73e-c1cf-44d2-8ccc-e287ece4a633 HTTP/1.1" 200 -
+2025-06-27 16:45:17,909 - INFO - 127.0.0.1 - - [27/Jun/2025 16:45:17] "GET /api/insights/project/2da4b73e-c1cf-44d2-8ccc-e287ece4a633 HTTP/1.1" 200 -
+2025-06-27 16:45:21,899 - INFO - Generated insights for project: 2da4b73e-c1cf-44d2-8ccc-e287ece4a633
+2025-06-27 16:45:21,899 - INFO - 127.0.0.1 - - [27/Jun/2025 16:45:21] "POST /api/insights/project/2da4b73e-c1cf-44d2-8ccc-e287ece4a633/generate HTTP/1.1" 200 -
+2025-06-27 16:45:26,929 - INFO - 127.0.0.1 - - [27/Jun/2025 16:45:26] "GET /api/insights/project/2da4b73e-c1cf-44d2-8ccc-e287ece4a633 HTTP/1.1" 200 -
+2025-06-27 16:47:47,535 - INFO - Returning 1 projects
+2025-06-27 16:47:47,537 - INFO - 127.0.0.1 - - [27/Jun/2025 16:47:47] "GET /api/projects HTTP/1.1" 200 -
+2025-06-27 16:47:47,547 - INFO - Returning 1 projects
+2025-06-27 16:47:47,547 - INFO - 127.0.0.1 - - [27/Jun/2025 16:47:47] "GET /api/projects HTTP/1.1" 200 -
+2025-06-27 16:47:53,185 - INFO - Returning 1 projects
+2025-06-27 16:47:53,186 - INFO - 127.0.0.1 - - [27/Jun/2025 16:47:53] "GET /api/projects HTTP/1.1" 200 -
+2025-06-27 16:47:53,199 - INFO - Returning 1 projects
+2025-06-27 16:47:53,199 - INFO - 127.0.0.1 - - [27/Jun/2025 16:47:53] "GET /api/projects HTTP/1.1" 200 -
+2025-06-27 16:49:03,740 - INFO - Returning 1 projects
+2025-06-27 16:49:03,740 - INFO - 127.0.0.1 - - [27/Jun/2025 16:49:03] "GET /api/projects HTTP/1.1" 200 -
+2025-06-27 16:49:03,754 - INFO - Returning 1 projects
+2025-06-27 16:49:03,755 - INFO - 127.0.0.1 - - [27/Jun/2025 16:49:03] "GET /api/projects HTTP/1.1" 200 -
+2025-06-27 16:49:13,331 - INFO -  * Detected change in 'C:\\Users\\ezaza\\Desktop\\zo-house\\backend\\app.py', reloading
+2025-06-27 16:49:13,388 - INFO -  * Restarting with stat
+2025-06-27 16:49:13,753 - INFO - Upload directory created/verified: data
+2025-06-27 16:49:13,762 - INFO - CALEX Flask Backend starting up
+2025-06-27 16:49:13,778 - WARNING -  * Debugger is active!
+2025-06-27 16:49:13,786 - INFO -  * Debugger PIN: 127-845-338
+2025-06-27 16:49:34,025 - INFO - Creating project: test2
+2025-06-27 16:49:34,029 - INFO - Created project: test2 (9d08948e-1954-41be-a00e-b8d3341e0711)
+2025-06-27 16:49:34,031 - INFO - 127.0.0.1 - - [27/Jun/2025 16:49:34] "[35m[1mPOST /api/projects HTTP/1.1[0m" 201 -
+2025-06-27 16:49:34,077 - INFO - 127.0.0.1 - - [27/Jun/2025 16:49:34] "GET /api/files HTTP/1.1" 200 -
+2025-06-27 16:49:34,087 - INFO - 127.0.0.1 - - [27/Jun/2025 16:49:34] "GET /api/files HTTP/1.1" 200 -
+2025-06-27 16:49:47,067 - INFO - 127.0.0.1 - - [27/Jun/2025 16:49:47] "GET /api/goals/project/9d08948e-1954-41be-a00e-b8d3341e0711 HTTP/1.1" 200 -
+2025-06-27 16:49:47,080 - INFO - 127.0.0.1 - - [27/Jun/2025 16:49:47] "GET /api/goals/project/9d08948e-1954-41be-a00e-b8d3341e0711 HTTP/1.1" 200 -
+2025-06-27 16:49:54,567 - INFO - 127.0.0.1 - - [27/Jun/2025 16:49:54] "GET /api/insights/project/9d08948e-1954-41be-a00e-b8d3341e0711 HTTP/1.1" 200 -
+2025-06-27 16:49:54,588 - INFO - 127.0.0.1 - - [27/Jun/2025 16:49:54] "GET /api/insights/project/9d08948e-1954-41be-a00e-b8d3341e0711 HTTP/1.1" 200 -
+2025-06-27 16:49:56,944 - INFO - Generated insights for project: 9d08948e-1954-41be-a00e-b8d3341e0711
+2025-06-27 16:49:56,944 - INFO - 127.0.0.1 - - [27/Jun/2025 16:49:56] "POST /api/insights/project/9d08948e-1954-41be-a00e-b8d3341e0711/generate HTTP/1.1" 200 -
+2025-06-27 16:50:00,906 - INFO - Generated insights for project: 9d08948e-1954-41be-a00e-b8d3341e0711
+2025-06-27 16:50:00,908 - INFO - 127.0.0.1 - - [27/Jun/2025 16:50:00] "POST /api/insights/project/9d08948e-1954-41be-a00e-b8d3341e0711/generate HTTP/1.1" 200 -
+2025-06-27 16:50:01,964 - INFO - 127.0.0.1 - - [27/Jun/2025 16:50:01] "GET /api/insights/project/9d08948e-1954-41be-a00e-b8d3341e0711 HTTP/1.1" 200 -
+2025-06-27 16:50:05,920 - INFO - 127.0.0.1 - - [27/Jun/2025 16:50:05] "GET /api/insights/project/9d08948e-1954-41be-a00e-b8d3341e0711 HTTP/1.1" 200 -
+2025-06-27 16:50:06,763 - INFO - 127.0.0.1 - - [27/Jun/2025 16:50:06] "GET /api/files HTTP/1.1" 200 -
+2025-06-27 16:50:06,779 - INFO - 127.0.0.1 - - [27/Jun/2025 16:50:06] "GET /api/files HTTP/1.1" 200 -
+2025-06-27 16:50:07,895 - INFO - 127.0.0.1 - - [27/Jun/2025 16:50:07] "GET /api/goals/project/9d08948e-1954-41be-a00e-b8d3341e0711 HTTP/1.1" 200 -
+2025-06-27 16:50:07,904 - INFO - 127.0.0.1 - - [27/Jun/2025 16:50:07] "GET /api/goals/project/9d08948e-1954-41be-a00e-b8d3341e0711 HTTP/1.1" 200 -
+2025-06-27 16:50:19,146 - INFO -  * Detected change in 'C:\\Users\\ezaza\\Desktop\\zo-house\\backend\\app.py', reloading
+2025-06-27 16:50:19,338 - INFO -  * Restarting with stat
+2025-06-27 16:50:20,212 - INFO - Upload directory created/verified: data
+2025-06-27 16:50:20,221 - INFO - CALEX Flask Backend starting up
+2025-06-27 16:50:20,238 - WARNING -  * Debugger is active!
+2025-06-27 16:50:20,247 - INFO -  * Debugger PIN: 127-845-338
+2025-06-27 16:55:46,460 - INFO - Returning 2 projects
+2025-06-27 16:55:46,462 - INFO - 127.0.0.1 - - [27/Jun/2025 16:55:46] "GET /api/projects HTTP/1.1" 200 -
+2025-06-27 16:55:46,476 - INFO - Returning 2 projects
+2025-06-27 16:55:46,480 - INFO - 127.0.0.1 - - [27/Jun/2025 16:55:46] "GET /api/projects HTTP/1.1" 200 -
+2025-06-27 16:55:51,989 - INFO - Returning 2 projects
+2025-06-27 16:55:51,992 - INFO - 127.0.0.1 - - [27/Jun/2025 16:55:51] "GET /api/projects HTTP/1.1" 200 -
+2025-06-27 16:55:52,001 - INFO - Returning 2 projects
+2025-06-27 16:55:52,003 - INFO - 127.0.0.1 - - [27/Jun/2025 16:55:52] "GET /api/projects HTTP/1.1" 200 -
+2025-06-27 16:56:28,878 - INFO - Upload directory created/verified: data
+2025-06-27 16:56:28,888 - INFO - CALEX Flask Backend starting up
+2025-06-27 16:56:28,946 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.104.212.89:5000
+2025-06-27 16:56:28,947 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-27 16:56:28,955 - INFO -  * Restarting with stat
+2025-06-27 16:56:29,453 - INFO - Upload directory created/verified: data
+2025-06-27 16:56:29,463 - INFO - CALEX Flask Backend starting up
+2025-06-27 16:56:29,486 - WARNING -  * Debugger is active!
+2025-06-27 16:56:29,503 - INFO -  * Debugger PIN: 127-845-338
+2025-06-27 16:56:41,953 - INFO -  * Detected change in 'C:\\Users\\ezaza\\Desktop\\zo-house\\backend\\app.py', reloading
+2025-06-27 16:56:42,114 - INFO -  * Restarting with stat
+2025-06-27 16:56:42,555 - INFO - Upload directory created/verified: data
+2025-06-27 16:56:42,571 - INFO - CALEX Flask Backend starting up
+2025-06-27 16:56:42,589 - WARNING -  * Debugger is active!
+2025-06-27 16:56:42,600 - INFO -  * Debugger PIN: 127-845-338
+2025-06-27 16:59:14,983 - INFO - Returning 0 projects
+2025-06-27 16:59:14,989 - INFO - 127.0.0.1 - - [27/Jun/2025 16:59:14] "GET /api/projects HTTP/1.1" 200 -
+2025-06-27 16:59:15,013 - INFO - Returning 0 projects
+2025-06-27 16:59:15,015 - INFO - 127.0.0.1 - - [27/Jun/2025 16:59:15] "GET /api/projects HTTP/1.1" 200 -
+2025-06-27 16:59:29,205 - INFO - Creating project: test
+2025-06-27 16:59:29,207 - INFO - Created project: test (b06e9f0d-638f-4a0d-8f95-07b5105d5480)
+2025-06-27 16:59:29,208 - INFO - 127.0.0.1 - - [27/Jun/2025 16:59:29] "[35m[1mPOST /api/projects HTTP/1.1[0m" 201 -
+2025-06-27 16:59:29,241 - INFO - 127.0.0.1 - - [27/Jun/2025 16:59:29] "GET /api/files HTTP/1.1" 200 -
+2025-06-27 16:59:29,259 - INFO - 127.0.0.1 - - [27/Jun/2025 16:59:29] "GET /api/files HTTP/1.1" 200 -
+2025-06-27 16:59:34,303 - INFO - 127.0.0.1 - - [27/Jun/2025 16:59:34] "GET /api/files HTTP/1.1" 200 -
+2025-06-27 16:59:34,317 - INFO - 127.0.0.1 - - [27/Jun/2025 16:59:34] "GET /api/files HTTP/1.1" 200 -
+2025-06-27 16:59:35,450 - INFO - 127.0.0.1 - - [27/Jun/2025 16:59:35] "GET /api/goals/project/b06e9f0d-638f-4a0d-8f95-07b5105d5480 HTTP/1.1" 200 -
+2025-06-27 16:59:35,462 - INFO - 127.0.0.1 - - [27/Jun/2025 16:59:35] "GET /api/goals/project/b06e9f0d-638f-4a0d-8f95-07b5105d5480 HTTP/1.1" 200 -
+2025-06-27 16:59:37,240 - INFO - 127.0.0.1 - - [27/Jun/2025 16:59:37] "GET /api/insights/project/b06e9f0d-638f-4a0d-8f95-07b5105d5480 HTTP/1.1" 200 -
+2025-06-27 16:59:37,250 - INFO - 127.0.0.1 - - [27/Jun/2025 16:59:37] "GET /api/insights/project/b06e9f0d-638f-4a0d-8f95-07b5105d5480 HTTP/1.1" 200 -
+2025-06-27 17:00:07,787 - INFO - 127.0.0.1 - - [27/Jun/2025 17:00:07] "GET /api/insights/project/b06e9f0d-638f-4a0d-8f95-07b5105d5480 HTTP/1.1" 200 -
+2025-06-27 17:00:37,795 - INFO - 127.0.0.1 - - [27/Jun/2025 17:00:37] "GET /api/insights/project/b06e9f0d-638f-4a0d-8f95-07b5105d5480 HTTP/1.1" 200 -
+2025-06-27 17:01:07,783 - INFO - 127.0.0.1 - - [27/Jun/2025 17:01:07] "GET /api/insights/project/b06e9f0d-638f-4a0d-8f95-07b5105d5480 HTTP/1.1" 200 -
+2025-06-27 17:01:37,798 - INFO - 127.0.0.1 - - [27/Jun/2025 17:01:37] "GET /api/insights/project/b06e9f0d-638f-4a0d-8f95-07b5105d5480 HTTP/1.1" 200 -
+2025-06-27 17:02:07,794 - INFO - 127.0.0.1 - - [27/Jun/2025 17:02:07] "GET /api/insights/project/b06e9f0d-638f-4a0d-8f95-07b5105d5480 HTTP/1.1" 200 -
+2025-06-27 17:02:37,791 - INFO - 127.0.0.1 - - [27/Jun/2025 17:02:37] "GET /api/insights/project/b06e9f0d-638f-4a0d-8f95-07b5105d5480 HTTP/1.1" 200 -
+2025-06-27 17:03:38,795 - INFO - 127.0.0.1 - - [27/Jun/2025 17:03:38] "GET /api/insights/project/b06e9f0d-638f-4a0d-8f95-07b5105d5480 HTTP/1.1" 200 -
+2025-06-27 17:04:38,795 - INFO - 127.0.0.1 - - [27/Jun/2025 17:04:38] "GET /api/insights/project/b06e9f0d-638f-4a0d-8f95-07b5105d5480 HTTP/1.1" 200 -
+2025-06-27 17:05:38,788 - INFO - 127.0.0.1 - - [27/Jun/2025 17:05:38] "GET /api/insights/project/b06e9f0d-638f-4a0d-8f95-07b5105d5480 HTTP/1.1" 200 -
+2025-06-27 17:06:38,793 - INFO - 127.0.0.1 - - [27/Jun/2025 17:06:38] "GET /api/insights/project/b06e9f0d-638f-4a0d-8f95-07b5105d5480 HTTP/1.1" 200 -
+2025-06-27 17:07:38,801 - INFO - 127.0.0.1 - - [27/Jun/2025 17:07:38] "GET /api/insights/project/b06e9f0d-638f-4a0d-8f95-07b5105d5480 HTTP/1.1" 200 -
+2025-06-27 17:08:38,801 - INFO - 127.0.0.1 - - [27/Jun/2025 17:08:38] "GET /api/insights/project/b06e9f0d-638f-4a0d-8f95-07b5105d5480 HTTP/1.1" 200 -
+2025-06-27 17:09:38,810 - INFO - 127.0.0.1 - - [27/Jun/2025 17:09:38] "GET /api/insights/project/b06e9f0d-638f-4a0d-8f95-07b5105d5480 HTTP/1.1" 200 -
+2025-06-27 17:10:38,784 - INFO - 127.0.0.1 - - [27/Jun/2025 17:10:38] "GET /api/insights/project/b06e9f0d-638f-4a0d-8f95-07b5105d5480 HTTP/1.1" 200 -
+2025-06-27 17:11:38,795 - INFO - 127.0.0.1 - - [27/Jun/2025 17:11:38] "GET /api/insights/project/b06e9f0d-638f-4a0d-8f95-07b5105d5480 HTTP/1.1" 200 -
+2025-06-27 17:12:38,794 - INFO - 127.0.0.1 - - [27/Jun/2025 17:12:38] "GET /api/insights/project/b06e9f0d-638f-4a0d-8f95-07b5105d5480 HTTP/1.1" 200 -
+2025-06-27 17:13:38,793 - INFO - 127.0.0.1 - - [27/Jun/2025 17:13:38] "GET /api/insights/project/b06e9f0d-638f-4a0d-8f95-07b5105d5480 HTTP/1.1" 200 -
+2025-06-27 17:14:38,809 - INFO - 127.0.0.1 - - [27/Jun/2025 17:14:38] "GET /api/insights/project/b06e9f0d-638f-4a0d-8f95-07b5105d5480 HTTP/1.1" 200 -
+2025-06-27 17:15:38,833 - INFO - 127.0.0.1 - - [27/Jun/2025 17:15:38] "GET /api/insights/project/b06e9f0d-638f-4a0d-8f95-07b5105d5480 HTTP/1.1" 200 -
+2025-06-27 17:16:38,791 - INFO - 127.0.0.1 - - [27/Jun/2025 17:16:38] "GET /api/insights/project/b06e9f0d-638f-4a0d-8f95-07b5105d5480 HTTP/1.1" 200 -
+2025-06-27 17:17:38,793 - INFO - 127.0.0.1 - - [27/Jun/2025 17:17:38] "GET /api/insights/project/b06e9f0d-638f-4a0d-8f95-07b5105d5480 HTTP/1.1" 200 -
+2025-06-27 17:18:38,796 - INFO - 127.0.0.1 - - [27/Jun/2025 17:18:38] "GET /api/insights/project/b06e9f0d-638f-4a0d-8f95-07b5105d5480 HTTP/1.1" 200 -
